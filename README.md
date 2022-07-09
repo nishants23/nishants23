@@ -1,6 +1,6 @@
 ### Hello! 👋🏻
 
-I'm a cyber security professional, a hobbyist developer, and like product management mechanics.
+I'm a cyber security professional, a hobbyist programmer, and like product management mechanics.
 
 - 🧑🏻‍💻 Work: Security @ NetApp
 - 💬 Ask me about: Cyber Security Incident Response, Cyber Threat Intel, Cloud Security, Product Management
