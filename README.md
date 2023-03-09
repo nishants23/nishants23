@@ -6,7 +6,7 @@
 - 💬 Ask me about: Cyber Security Incident Response, Cyber Threat Intel, Security Engineering, and Product Management
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nishant23/)
 
-[Blog](nishantsingh.me)
+More at [nishantsingh.me](https://nishantsingh.me)
 <!--
 **nishants23/nishants23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
