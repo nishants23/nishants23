@@ -3,9 +3,10 @@
 🙋🏻‍♂️ I'm a cyber security professional, a hobbyist programmer, and like product management mechanics.
 
 - 💻 Work: Security @ [NetApp](https://www.netapp.com/)
-- 💬 Ask me about: Cyber Security Incident Response, Cyber Threat Intel, Digital Forensics, Cloud Security, Product Management
+- 💬 Ask me about: Cyber Security Incident Response, Cyber Threat Intel, Security Engineering, and Product Management
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nishant23/)
 
+[Blog](nishantsingh.me)
 <!--
 **nishants23/nishants23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
